@@ -292,3 +292,23 @@ Project Repository: [ThermaCrop](https://github.com/Ankita-babar/ThermaCrop)
 ---
 
 *ThermaCrop is an agricultural technology prototype developed to explore cold-storage monitoring, produce sorting records, marketplace workflows, and IoT integration.*
+
+## Project Screenshots
+
+### Screenshot 1
+![ThermaCrop Screenshot 1](docs/screenshots/screenshot-01.png)
+
+### Screenshot 2
+![ThermaCrop Screenshot 2](docs/screenshots/screenshot-02.png)
+
+### Screenshot 3
+![ThermaCrop Screenshot 3](docs/screenshots/screenshot-03.png)
+
+### Screenshot 4
+![ThermaCrop Screenshot 4](docs/screenshots/screenshot-04.png)
+
+### Screenshot 5
+![ThermaCrop Screenshot 5](docs/screenshots/screenshot-05.png)
+
+### Screenshot 6
+![ThermaCrop Screenshot 6](docs/screenshots/screenshot-06.png)
